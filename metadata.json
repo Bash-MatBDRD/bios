@@ -1,0 +1,6 @@
+{
+  "name": "GoldenGate EFI Bootloader & Hardware Suite",
+  "description": "Custom Apple Golden Gate style EFI bootloader with liquid glass design, real-time CPU/GPU thermal telemetry, persistent EFI partition management, component diagnostics, and macOS-style push alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
